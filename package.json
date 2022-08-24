@@ -1,5 +1,5 @@
 {
-  "name": "@cityofboston/deploy-tools",
+  "name": "deploy-tools",
   "version": "0.0.0",
   "description": "Scripts for building and deployment of our services",
   "private": true,
