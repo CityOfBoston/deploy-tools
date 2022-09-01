@@ -48,6 +48,7 @@
     "tar": "^4.4.3"
   },
   "devDependencies": {
+    "babel-config": "CityOfBoston/config-babel#main",
     "@cityofboston/config-typescript": "^0.0.0",
     "@types/aws-sdk": "^2.7.0",
     "@types/jest": "24.x.x",
